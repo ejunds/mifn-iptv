@@ -20,7 +20,7 @@
 |6. TEKAN SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.|
 
 ## TENTANG LINK SIARAN
- * Link m3u8 ini dibina oleh https://MIFNtechnology.github.io/
+ * Link m3u8 ini dibina oleh https://MIFNtechnology.github.io/siaranMy
  * Ia dibina atas tujuan memudahkan pengguna untuk menonton siaran tv menggunakan ip.
  * Saluran ip ini adalah percuma kepada semua.
  * Jangan malu,jangan segan..gunakanlah selagi ia boleh digunakan.😘
