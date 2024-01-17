@@ -5,10 +5,11 @@
 ## SIARAN TV
 | SIARAN | | | |  
 |--|--|--|--|
-|Tv1|Tv6|OkeyTv|BeritaRTM|
-|Tv2|8tv|TvIkim|SukanRTM|
-|Tv3|Tv9|Bernama|DramaSangat|
-|Tvs|DidikTv|AstroAwani||
+|Tv1|Tv6|Bernama|BeritaRTM|
+|Tv2|8tv|AstroAwani|SukanRTM|
+|Tv3|Tv9|DramaSangat||
+|Tvs|DidikTv|DewanRakyat||
+|OkeyTv|TvIkim|DewanNegara||
 ## CARA GUNA
 | |
 |-|
