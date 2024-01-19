@@ -50,3 +50,6 @@ https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="DewanNegara" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/PDN_Trans.png",DewanNegara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="114" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
