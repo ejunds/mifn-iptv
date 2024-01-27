@@ -1,5 +1,5 @@
 # mifn-iptv
-* Saluran basic ip mifn-iptv Malaysia percuma👏
+* Saluran asas ip mifn-iptv Malaysia percuma👏
 * Televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 
 ## SIARAN TV
