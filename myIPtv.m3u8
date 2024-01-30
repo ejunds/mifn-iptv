@@ -51,5 +51,11 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRak
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="DewanNegara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
 
-#EXTINF:-1 tvg-group="movies" tvg-id="movies" tvg-name="movies" tvg-logo=" ",movies
-https://raw.githubusercontent.com/MIFNtechnology/movies/master/myMv.m3u8
+#EXTINF:-1 tvg-group="movies" tvg-name="twinn dragon" tvg-logo="https://canvas-bridge.tubitv.com/YYX8lRdnNWX7r40aG52OHt2d3QI=/1920x676/smart/img.adrise.tv/6f22b314-3866-4623-997e-9124315ff0ee.jpg",TwinDragon
+https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/TwinDragon/index.m3u8
+
+#EXTINF:-1 tvg-group="movies" tvg-name="ShanghaiAffairs" tvg-logo="https://canvas-bridge02.tubitv.com/XJrXjmG2sEP6nFlLpCxZ0YPmBIM=/1920x676/smart/img.adrise.tv/45f8f45f-37d2-40a1-95fa-a805b7ccd397.jpg",Shanghai Affairs
+https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/ShanghaiAffairs/index.m3u8
+
+#EXTINF:-1 tvg-group="movies" tvg-name="ThalWeapon" tvg-logo="https://canvas-bridge.tubitv.com/d1jBt1fTdrxp_0_V9qq6NwAmOaU=/1920x676/smart/img.adrise.tv/c2b7a40a-246d-49c8-a14d-e21e38b91e9e.jpg",ThalWeapon
+https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/ThalWeapon/index.m3u8
