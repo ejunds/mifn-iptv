@@ -50,3 +50,6 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRak
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="DewanNegara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
+
+#EXTINF:-1 tvg-group="movies" tvg-id="movies" tvg-name="movies" tvg-logo=" ",movies
+https://raw.githubusercontent.com/MIFNtechnology/movies/master/myMv.m3u8
