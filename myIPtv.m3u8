@@ -63,5 +63,5 @@ https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/ThalWeap
 #EXTINF:-1 tvg-group="movies" tvg-name="OppenHeimer" tvg-logo="https://img.icdn.my.id/cover/w_1200/h_600/oppenheimer-1630855498.jpg",OppenHeimer
 https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/OppenHeimer/playlist.m3u8
 
-#EXTINF:-1 tvg-group="movies" tvg-name="SpongerBob" tvg-logo="https://i.ytimg.com/vi/xHBNKmb1kSk/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAcqy7nUeC7kNqCvMewYIWs1_3EQ",SpongerBob
-https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/SpongerBob/index.html
+#EXTINF:-1 tvg-group="kids" tvg-name="SpongerBob" tvg-logo="https://i.ytimg.com/vi/xHBNKmb1kSk/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAcqy7nUeC7kNqCvMewYIWs1_3EQ",SpongerBob
+https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/SpongerBob/index.m3u8
