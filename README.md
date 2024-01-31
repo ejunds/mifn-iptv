@@ -10,6 +10,9 @@
 |Tv3|Tv9|DramaSangat||
 |Tvs|DidikTv|DewanRakyat||
 |OkeyTv|TvIkim|DewanNegara||
+## SALURAN PERCUBAAN
+* 2 Saluran 'youtube live' kanak².
+* 4 Video 'movie web' percuma.
 ## CARA GUNA
 | |
 |-|
