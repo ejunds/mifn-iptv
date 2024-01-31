@@ -59,3 +59,6 @@ https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/Shanghai
 
 #EXTINF:-1 tvg-group="movies" tvg-name="ThalWeapon" tvg-logo="https://canvas-bridge.tubitv.com/d1jBt1fTdrxp_0_V9qq6NwAmOaU=/1920x676/smart/img.adrise.tv/c2b7a40a-246d-49c8-a14d-e21e38b91e9e.jpg",ThalWeapon
 https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/ThalWeapon/index.m3u8
+
+#EXTINF:-1 tvg-group="movies" tvg-name="OppenHeimer" tvg-logo="https://img.icdn.my.id/cover/w_1200/h_600/oppenheimer-1630855498.jpg",OppenHeimer
+https://raw.githubusercontent.com/MIFNtechnology/movies/master/playlist/OppenHeimer/playlist.m3u8
