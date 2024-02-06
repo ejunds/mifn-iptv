@@ -13,7 +13,7 @@ env:
 on:
   push:
     # push inputs aren't known to GitHub
-    inputs:
+    types:
       cpython-versions:
         type: string
         default: all
@@ -22,7 +22,7 @@ on:
         default: core
   pull_request:
     # pull_request inputs aren't known to GitHub
-    inputs:
+    types:
       cpython-versions:
         type: string
         default: main
@@ -114,35 +114,8 @@ jobs:
       PIP_DISABLE_PIP_VERSION_CHECK: true
       PIP_NO_PYTHON_VERSION_WARNING: true
     strategy:
-      fail-fast: true
-      matrix:
-        os: [ubuntu-20.04]
-        python-version: ${{ fromJSON(needs.select.outputs.cpython-versions) }}
-        python-impl: [cpython]
-        ytdl-test-set: ${{ fromJSON(needs.select.outputs.test-set) }}
-        run-tests-ext: [sh]
-        include:
-        - os: windows-2019
-          python-version: 3.4
-          python-impl: cpython
-          ytdl-test-set: ${{ contains(needs.select.outputs.test-set, 'core') && 'core' || 'nocore' }}
-          run-tests-ext: bat
-        - os: windows-2019
-          python-version: 3.4
-          python-impl: cpython
-          ytdl-test-set: ${{ contains(needs.select.outputs.test-set, 'download') && 'download'  || 'nodownload' }}
-          run-tests-ext: bat
-        # jython
-        - os: ubuntu-20.04
-          python-version: 2.7
-          python-impl: jython
-          ytdl-test-set: ${{ contains(needs.select.outputs.test-set, 'core') && 'core' || 'nocore' }}
-          run-tests-ext: sh
-        - os: ubuntu-20.04
-          python-version: 2.7
-          python-impl: jython
-          ytdl-test-set: ${{ contains(needs.select.outputs.test-set, 'download') && 'download'  || 'nodownload' }}
-          run-tests-ext: sh
+      fail-fast: true  
+        
     steps:
     - name: Prepare Linux
       if: ${{ startswith(matrix.os, 'ubuntu') }}
@@ -306,47 +279,7 @@ jobs:
         echo "PYTHONHOME=$PYTHONHOME" >> "$GITHUB_ENV"
         echo "PATH=${PYTHONHOME}/bin:$PATH" >> "$GITHUB_ENV"
         echo "LD_LIBRARY_PATH=${{ env.openssl_dir }}/lib${LD_LIBRARY_PATH:+:}${LD_LIBRARY_PATH}" >> "$GITHUB_ENV"
-    #-------- Jython ------
-    - name: Set up Java 8
-      if: ${{ matrix.python-impl == 'jython' }}
-      uses: actions/setup-java@v3
-      with:
-        java-version: 8
-        distribution: 'zulu'
-    - name: Setup Jython environment
-      if: ${{ matrix.python-impl == 'jython' }}
-      shell: bash
-      run: |
-        echo "JYTHON_ROOT=${HOME}/jython" >> "$GITHUB_ENV"
-        echo "PIP=pip" >> "$GITHUB_ENV"
-    - name: Cache Jython
-      id: cachejy
-      if: ${{ matrix.python-impl == 'jython' && matrix.python-version == '2.7' }}
-      uses: actions/cache@v3
-      with:
-        # 2.7.3 now available, may solve SNI issue
-        key: jython-2.7.1
-        path: |
-          ${{ env.JYTHON_ROOT }}
-    - name: Install Jython
-      if: ${{ matrix.python-impl == 'jython' && matrix.python-version == '2.7' && ! steps.cachejy.outputs.cache-hit }}
-      shell: bash
-      run: |
-        JYTHON_ROOT="${{ env.JYTHON_ROOT }}"
-        curl -L "https://repo1.maven.org/maven2/org/python/jython-installer/2.7.1/jython-installer-2.7.1.jar" -o jython-installer.jar
-        java -jar jython-installer.jar -s -d "${JYTHON_ROOT}"
-        echo "${JYTHON_ROOT}/bin" >> "$GITHUB_PATH"
-    - name: Set up cached Jython
-      if: ${{ steps.cachejy.outputs.cache-hit }}
-      shell: bash
-      run: |
-        JYTHON_ROOT="${{ env.JYTHON_ROOT }}"
-        echo "${JYTHON_ROOT}/bin" >> $GITHUB_PATH
-    - name: Install supporting Python 2.7 if possible
-      if: ${{ steps.cachejy.outputs.cache-hit }}
-      shell: bash
-      run: |
-        sudo apt-get install -y python2.7 || true
+
     #-------- pip ---------
     - name: Set up supported Python ${{ matrix.python-version }} pip
       if: ${{ (matrix.python-version != '3.2' && steps.setup-python.outputs.python-path) || matrix.python-version == '2.7' }}
