@@ -13,7 +13,7 @@ env:
 on:
   push:
     # push inputs aren't known to GitHub
-    types:
+    input:
       cpython-versions:
         type: string
         default: all
@@ -22,7 +22,7 @@ on:
         default: core
   pull_request:
     # pull_request inputs aren't known to GitHub
-    types:
+    input:
       cpython-versions:
         type: string
         default: main
