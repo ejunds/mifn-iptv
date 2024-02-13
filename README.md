@@ -10,9 +10,7 @@
 |[<img src="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png" width="60">](logo/DramaSangat.png)|[<img src="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png" width="60">](logo/BeritaRtm.png)|[<img src="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png" width="60">](logo/SukanRtm.png)|[<img src="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg" width="60">](logo/Tvs.jpg)|
 |[<img src="https://mifntechnology.github.io/siaranMy/logo/Bernama.png" width="60">](logo/Bernama.png)|[<img src="https://mifntechnology.github.io/siaranMy/logo/AstroAwani.png" width="60">](logo/AstroAwani.png)|[<img src="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png" width="60">](logo/TvIkim.png)|[<img src="https://mifntechnology.github.io/siaranMy/logo/DewanRakyat.png" width="60">](logo/DewanRakyat.png)|
 |[<img src="https://mifntechnology.github.io/siaranMy/logo/DewanNegara.png" width="60">](logo/DewanNegara.png)|
-## SALURAN PERCUBAAN
-* 2 Saluran 'youtube live' kanak².
-* 4 Video 'movie web' percuma.
+
 ## CARA GUNA
 | |
 |-|
