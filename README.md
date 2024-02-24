@@ -2,7 +2,7 @@
 
 ## SALURAN TV
 
-[![MIFN](https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png)](https://github.com/MIFNtechnology/siaranMy/blob/main/logo_mifn.png)
+[![MIFN](https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png)]
 
 | TV |
 |--|
