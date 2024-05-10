@@ -1,7 +1,5 @@
-# siaranMy/myIPtv
+# SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 
- **SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).**
- 
 -----------
 
 ## **SALURAN TV & RADIO**
@@ -53,7 +51,7 @@
 3. MASUKKAN NAMA & PAUTAN M3U/M3U8.
 4. *SALIN DAN ISI PAUTAN `URL` KE IPTV PLAYER.*
 5. ~~~
-   https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
+   https://raw.githubusercontent.com/ejunds/mifn-iptv/main/myIPtv.m3u8
    ~~~
 6. KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.
 
