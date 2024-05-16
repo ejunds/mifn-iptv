@@ -1,9 +1,8 @@
 html {
-  height: 500% witdh: 200%;
+  height: 500% witdh: 500%;
 }
 body {
-  background-image: url('https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png'); linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
-  background-image: 
+  background-image: url('https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
