@@ -1,6 +1,6 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      <link rel="stylesheet" href="https://mifntechnology.github.io/siaranMy/style.css">      
+      <link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">      
       <h1 align="center" style="color:blue;font-size:50px;"><a href="https://mifntechnology.github.io/mifn-iptv/" align="centre">mifn-iptv</a></h1>     
       <h1 align="center" id="mifn-iptvmyiptv" style="color:white;font-size:50px;">mifn-iptv/myIPtv</h1>
 
