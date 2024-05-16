@@ -3,6 +3,14 @@
       <link rel="stylesheet" href="https://mifntechnology.github.io/siaranMy/style.css">      
       <h1 align="center" style="color:blue;font-size:50px;"><a href="https://mifntechnology.github.io/mifn-iptv/" align="centre">mifn-iptv</a></h1>     
       <h1 align="center" id="mifn-iptvmyiptv" style="color:white;font-size:50px;">mifn-iptv/myIPtv</h1>
+<style>
+body {
+  background-image: url('https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
 
 <p style="color:white;font-size:30px;"><strong>SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).</strong></p>
 
@@ -30,69 +38,69 @@
 <table style="color:white;font-size:20px;">
   <thead>
     <tr>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </th>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </th>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>TV</strong></th>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </th>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid"> </th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" > </th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>TV</strong></th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" > </th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" > </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/Tv1/Tv1_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png" alt="Tv1" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/Tv2/Tv2_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png" alt="Tv2" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/Tv3/Tv3_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv3.png" alt="Tv3" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/TvOkey/TvOkey_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png " alt="OkeyTv" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/Tvs/Tvs_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tvs.png" alt="Tvs" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/Tv1/Tv1_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png" alt="Tv1" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/Tv2/Tv2_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png" alt="Tv2" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/Tv3/Tv3_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv3.png" alt="Tv3" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/TvOkey/TvOkey_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png " alt="OkeyTv" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/Tvs/Tvs_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tvs.png" alt="Tvs" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>TV1</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>TV2</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>TV3</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>OKEYTV</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>TVS</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>TV1</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>TV2</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>TV3</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>OKEYTV</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>TVS</strong></td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/Tv6/Tv6_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv6.png" alt="Tv6" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/Ntv7_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png" alt="DidikTv" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/8tv/8tv_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png" alt="8tv" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/Tv9/Tv9_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv9.png" alt="Tv9" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/TvIkim/TvIkim_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvIkim.png" alt="TvIkim" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/Tv6/Tv6_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv6.png" alt="Tv6" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/Ntv7_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png" alt="DidikTv" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/8tv/8tv_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png" alt="8tv" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/Tv9/Tv9_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv9.png" alt="Tv9" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/TvIkim/TvIkim_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvIkim.png" alt="TvIkim" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>TV6</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>NTV7</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>8TV</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>TV9</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>TVIKIM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>TV6</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>NTV7</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>8TV</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>TV9</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>TVIKIM</strong></td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/BeritaRTM_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BeritaRtm.png " alt="BeritaRtm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/SukanRTM/SukanRTM_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png" alt="SukanRtm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/Bernama/Bernama_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png" alt="Bernama" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/AstroAwani/AstroAwani_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png" alt="AstroAwani" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/BeritaRTM_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BeritaRtm.png " alt="BeritaRtm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/SukanRTM/SukanRTM_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png" alt="SukanRtm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/Bernama/Bernama_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png" alt="Bernama" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/AstroAwani/AstroAwani_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png" alt="AstroAwani" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>B/RTM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>S/RTM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>BERNAMA</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>AWANI</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>B/RTM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>S/RTM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>BERNAMA</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>AWANI</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/DewanRakyat_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanRakyat.png" alt="DewanRakyat" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/channels/DewanNegara/DewanNegara_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanRakyat.png" alt="DewanNegara" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/DewanRakyat_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanRakyat.png" alt="DewanRakyat" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/channels/DewanNegara/DewanNegara_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanRakyat.png" alt="DewanNegara" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>D/RAKYAT</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>D/NEGARA</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>D/RAKYAT</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>D/NEGARA</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
     </tr>
   </tbody>
 </table>
@@ -102,55 +110,55 @@
 <table style="color:white;font-size:20px;">
   <thead>
     <tr>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </th>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </th>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>RADIO</strong></th>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </th>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" > </th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" > </th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>RADIO</strong></th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" > </th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" > </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/JohorFm/johor_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/JohorFm.png" alt="JohorFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/bestfm.png" alt="bestfm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/Era/era_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Era.png" alt="Era" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/FlyFm/fly_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/FlyFm.png" alt="FlyFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/HotFm/hot_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HotFm.png" alt="HotFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/JohorFm/johor_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/JohorFm.png" alt="JohorFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/bestfm.png" alt="bestfm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/Era/era_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Era.png" alt="Era" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/FlyFm/fly_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/FlyFm.png" alt="FlyFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/HotFm/hot_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HotFm.png" alt="HotFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>JOHORFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>BESTFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>ERA</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>FLYFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>HOTFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>JOHORFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>BESTFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>ERA</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>FLYFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>HOTFM</strong></td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/HitzFm/hitz_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HitzFm.png" alt="HitzFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/NasionalFm/nasional_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/NasionalFm.png" alt="NasionalFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/klasik_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RadioKlasik.png" alt="RadioKlasik" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/SinarFm/sinar_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SinarFm.png" alt="SinarFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/SuriaFm/suria_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png" alt="Suria" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/HitzFm/hitz_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HitzFm.png" alt="HitzFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/NasionalFm/nasional_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/NasionalFm.png" alt="NasionalFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/klasik_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RadioKlasik.png" alt="RadioKlasik" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/SinarFm/sinar_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SinarFm.png" alt="SinarFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/SuriaFm/suria_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png" alt="Suria" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>HITZFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>NASIONALFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>KLASIKFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>SINARFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>SURIAFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>HITZFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>NASIONALFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>KLASIKFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>SINARFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>SURIAFM</strong></td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/BuletinFm/buletin_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BuletinFm.png" alt="BuletinFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/RiaFm/ria_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RiaFm.png" alt="riafm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/AsyikFm/asyik_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AsyikFm.png" alt="AsyikFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><a href="https://mifntechnology.github.io/siaranMy/radio/8Fm/8_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8Fm.png" alt="IkimFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/BuletinFm/buletin_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BuletinFm.png" alt="BuletinFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/RiaFm/ria_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RiaFm.png" alt="riafm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/AsyikFm/asyik_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AsyikFm.png" alt="AsyikFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><a href="https://mifntechnology.github.io/siaranMy/radio/8Fm/8_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8Fm.png" alt="IkimFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>BULETINFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>RIAFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>ASYIKFM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>8FM</strong></td>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"> </td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>BULETINFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>RIAFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>ASYIKFM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>8FM</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" > </td>
     </tr>
   </tbody>
 </table>
@@ -226,15 +234,15 @@
 <table align="center">
   <thead>
     <tr>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid; color:white;font-size:20px;"bgcolor="#0051FF"><strong>IKLAN</strong></th>
+      <th style="height:1px;border-color: red; border-width:thick; border-style:solid; color:white;font-size:20px;"><strong>IKLAN</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF"><strong>SAYA ADA MEMBUAT KERJA² PENDAWAIAN DAN PEMASANGAN SISTEM KESELAMATAN DAN ELEKTRIK FASA 1.KERJA² DILAKUKAN OLEH SAYA DAN KAWAN².BEROPERASI DI SEKITAR JOHOR BAHRU DAN KAWASAN BERHAMPIRAN.SAYA CUMA AMBIL KERJA KECILAN SHJ.SUDI²LAH LAWAT KE LAMAN MUKA BUKU SAYA ,</strong></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" ><strong>SAYA ADA MEMBUAT KERJA² PENDAWAIAN DAN PEMASANGAN SISTEM KESELAMATAN DAN ELEKTRIK FASA 1.KERJA² DILAKUKAN OLEH SAYA DAN KAWAN².BEROPERASI DI SEKITAR JOHOR BAHRU DAN KAWASAN BERHAMPIRAN.SAYA CUMA AMBIL KERJA KECILAN SHJ.SUDI²LAH LAWAT KE LAMAN MUKA BUKU SAYA ,</strong></td>
     </tr>
     <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF">KLIK 👉 <a href="https://www.facebook.com/MIFNtechnology">facebook</a></td>
+      <td style="height:1px;border-color: red; border-width:thick; border-style:solid">KLIK 👉 <a href="https://www.facebook.com/MIFNtechnology">facebook</a></td>
     </tr>
   </tbody>
 </table>  
