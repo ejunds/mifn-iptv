@@ -1,7 +1,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <link rel="stylesheet" href="https://mifntechnology.github.io/siaranMy/style.css">      
-      <h1 align="center" style="color:blue;font-size:50px;"><a href="https://mifntechnology.github.io/siaranMy/" align="center">siaranMy</a></h1>      
+      <h1 align="center" style="color:blue;font-size:50px;"><a href="https://mifntechnology.github.io/siaranMy/" align="centre">siaranMy</a></h1>     
       <h1 align="center" id="siaranmymyiptv" style="color:white;font-size:50px;">siaranMy/myIPtv</h1>
 
 <p style="color:white;font-size:30px;"><strong>SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).</strong></p>
@@ -158,17 +158,17 @@
 
 <h2 align="center" id="cara-guna" style="color:white;font-size:30px;"><strong>CARA GUNA</strong></h2>
 
-<p style="color:white;font-size:30px;"><strong>(STREAM DI LAMAN WEB)</strong></p>
+<p style="color:white;font-size:20px;"><strong>(STREAM DI LAMAN WEB)</strong></p>
 <ul>
   <li style="color:white;font-size:20px;"><strong>KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.</strong></li>
   <li style="color:white;font-size:20px;"><em><strong>SALIN PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code><strong>KE  INTERNET BROWSER.</strong></em></li>
-    <div>
-    <input type="text" value="https://mifntechnology.github.io/siaranMy/" class="myInput" readonly="">
-    <button onclick="myFunction(event)">Copy text</button>
-  </div>
+  <li style="color:black;font-size:20px;">
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><strong>https://mifntechnology.github.io/siaranMy/</strong>
+</code></pre></div>    </div>
+  </li>
 </ul>
 
- <p style="color:white;font-size:30px;"><strong>(STREAM DI IPTV PLAYER)</strong></p>
+<p style="color:white;font-size:30px;"><strong>(STREAM DI IPTV PLAYER)</strong></p>
 <ul>
   <li style="color:white;font-size:20px;"><strong>JIKA ADA SALURAN BERMASALAH,SILA ‘UPDATE PLAYLIST’.</strong>
     <ol>
@@ -176,10 +176,10 @@
       <li style="color:white;font-size:20px;"><strong>KLIK SETTING (⏱️) , KLIK PLAYLIST , KLIK TAMBAH (+) , KLIK ‘NEW M3U PLAYLIST’.</strong></li>
       <li style="color:white;font-size:20px;"><strong>MASUKKAN NAMA &amp; PAUTAN M3U/M3U8.</strong></li>
       <li style="color:white;font-size:20px;"><em><strong>SALIN DAN ISI PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code> <strong>KE IPTV PLAYER.</strong></em></li>
-        <div>
-   <input type="text" value="https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8" class="myInput" readonly="">
-    <button onclick="myFunction(event)">Copy text</button>
-  </div>
+      <li style="color:black;font-size:20px;">
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <strong>https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8</strong>
+</code></pre></div>        </div>
+      </li>
       <li style="color:white;font-size:20px;"><strong>KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.</strong></li>
     </ol>
   </li>
@@ -192,28 +192,19 @@
 
 <p style="color:white;font-size:30px;"><em><strong>RTM EPG</strong></em></p>
 <ul>
-    <div>
-  <input type="text" value="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" class="myInput" readonly="">
-    <button onclick="myFunction(event)">Copy text</button>
-  </div>
+  <li style="color:black;font-size:20px;">
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><strong>https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml</strong>
+</code></pre></div>    </div>
+  </li>
 </ul>
 
 <p style="color:white;font-size:30px;"><em><strong>ASTRO EPG</strong></em></p>
 <ul>
-    <div>
-  <input type="text" value="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" class="myInput" readonly="">
-    <button onclick="myFunction(event)">Copy text</button>
-  </div>
+  <li style="color:black;font-size:20px;">
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <strong>https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml</strong>
+</code></pre></div>    </div>
+  </li>
 </ul>
-<script>
-  function myFunction(e) {
-  var copyText = e.target.previousElementSibling;
-  copyText.select();
-  copyText.setSelectionRange(0, 99999)
-  document.execCommand("copy");
-  alert("Copied the text: " + copyText.value);
-}
-</script>
 
 <h2 id="penghargaan" style="color:white;font-size:30px;"><em><strong>PENGHARGAAN</strong></em></h2>
 
@@ -246,5 +237,7 @@
       <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0051FF">KLIK 👉 <a href="https://www.facebook.com/MIFNtechnology">facebook</a></td>
     </tr>
   </tbody>
-</table>
-    
+</table>  
+    </div>
+
+  </body>
