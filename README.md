@@ -1,8 +1,8 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <link rel="stylesheet" href="https://mifntechnology.github.io/siaranMy/style.css">      
-      <h1 align="center" style="color:blue;font-size:50px;"><a href="https://mifntechnology.github.io/siaranMy/" align="centre">siaranMy</a></h1>     
-      <h1 align="center" id="siaranmymyiptv" style="color:white;font-size:50px;">siaranMy/myIPtv</h1>
+      <h1 align="center" style="color:blue;font-size:50px;"><a href="https://mifntechnology.github.io/mifn-iptv/" align="centre">siaranMy</a></h1>     
+      <h1 align="center" id="siaranmymyiptv" style="color:white;font-size:50px;">mifn-iptv/myIPtv</h1>
 
 <p style="color:white;font-size:30px;"><strong>SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).</strong></p>
 
@@ -163,7 +163,7 @@
   <li style="color:white;font-size:20px;"><strong>KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.</strong></li>
   <li style="color:white;font-size:20px;"><em><strong>SALIN PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code><strong>KE  INTERNET BROWSER.</strong></em></li>
   <li style="color:black;font-size:20px;">
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><strong>https://mifntechnology.github.io/siaranMy/</strong>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><strong>https://mifntechnology.github.io/mifn-iptv/</strong>
 </code></pre></div>    </div>
   </li>
 </ul>
@@ -177,7 +177,7 @@
       <li style="color:white;font-size:20px;"><strong>MASUKKAN NAMA &amp; PAUTAN M3U/M3U8.</strong></li>
       <li style="color:white;font-size:20px;"><em><strong>SALIN DAN ISI PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code> <strong>KE IPTV PLAYER.</strong></em></li>
       <li style="color:black;font-size:20px;">
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <strong>https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8</strong>
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <strong>https://raw.githubusercontent.com/MIFNtechnology/mifn-iptv/main/myIPtv.m3u8</strong>
 </code></pre></div>        </div>
       </li>
       <li style="color:white;font-size:20px;"><strong>KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.</strong></li>
