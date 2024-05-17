@@ -1,0 +1,12 @@
+.image
+{
+height: 400px;
+width: 400px;
+margin: 120px;
+border: 15px double rgba(255,255,255,.7);
+}
+body
+{
+background: url("p4.jpg");
+background-size: 100% 100%; /*makes image displayed in entire page*/
+}
