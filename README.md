@@ -224,5 +224,3 @@
   </tbody>
 </table>  
     </div>
-
-  </body>
