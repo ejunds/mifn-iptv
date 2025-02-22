@@ -1,9 +1,4 @@
- <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      <link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">      
-      <h1 align="center" style="color:blue;font-size:50px;"><a href="https://ejunds.github.io/mifn-iptv/" align="centre">mifn-iptv</a></h1>     
-      <h1 align="center" id="mifn-iptvmyiptv" style="color:white;font-size:50px;">mifn-iptv/myIPtv</h1>
-
+ 
 <p style="color:white;font-size:30px;"><strong>SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).</strong></p>
 
 <h2 align="center" id="saluran-tv--radio" style="color:white;font-size:30px;"><strong>SALURAN TV &amp; RADIO</strong></h2>
