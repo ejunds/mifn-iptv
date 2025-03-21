@@ -1,0 +1,51 @@
+name: Update
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: 0,30 * * * *
+  workflow_dispatch:
+
+env:
+  my_tz = pytz.timezone('Asia/Kuala_Lumpur')
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    # - name: Set up Python
+    # uses: actions/setup-python@v2
+    # with:
+    # python-version: '3.12.3'
+        
+    # - name: Install dependencies
+    # run: 
+    # pip install m3u-ipytv
+    
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S GMT+7')" >> $GITHUB_ENV
+
+        # Program source
+        rm -f EPG.xml && wget https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml -O EPG.xml
+        # wget https://AqFad2811.github.io/epg/compressed/epg.xml.gz -O EPG1.xml
+        
+        cat EPG1.xml >> EPG.xml
+        rm -f EPG1.xml 
+        echo "Auto Update IPTV in $DATE!✨CXT✨!" > README.md
+
+    - name: Clean
+      run: |
+        git config --local user.email "ejunds@gmail.com"
+        git config --local user.name "ejunds"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "$DATE"
+        git branch -D main
+        git branch -m main
+
+    - name: Push
+      run: git push -f origin main
