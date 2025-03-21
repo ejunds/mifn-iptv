@@ -25,6 +25,8 @@ jobs:
     # - name: Install dependencies
     # run: 
     # pip install m3u-ipytv
+
+    # - name: Run Python script
     
     - name: GetTime
       run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S GMT+7')" >> $GITHUB_ENV
