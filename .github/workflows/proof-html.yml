@@ -6,6 +6,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: ejunds/mifn-iptv@refs/heads/main
+      - uses: ejunds/mifn-iptv
         with:
-          directory: ./
+          directory: ./README.md
